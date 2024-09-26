@@ -6,7 +6,7 @@ Este endpoint é responsável por cadastrar leads no sistema, com informações 
 
 ### Endpoint
 
-`POST /api/contact-form`
+`POST /crm-interop/contact-form`
 
 ### Cabeçalhos (Headers)
 
@@ -54,7 +54,7 @@ Este endpoint é responsável por cadastrar uma pré reserva no sistema, com inf
 
 ### Endpoint
 
-`POST /api/pre-booking`
+`POST /crm-interop/pre-booking`
 
 ### Cabeçalhos (Headers)
 
