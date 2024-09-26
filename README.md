@@ -1,3 +1,15 @@
+## Autenticação
+
+A API utiliza **autenticação básica HTTP (Basic Auth)**. Para acessar os endpoints protegidos, você precisa enviar suas credenciais (usuário e senha) codificadas em Base64 no cabeçalho da requisição.
+
+### Cabeçalho de Autenticação
+
+A autenticação Basic Auth utiliza o seguinte formato no cabeçalho:
+
+```bash
+Authorization: Basic {token_base64}
+```
+
 # API de Cadastro de Leads
 
 ## Descrição
