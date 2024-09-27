@@ -47,6 +47,7 @@ A requisição deve enviar os seguintes campos no corpo (em formato JSON):
   "educationCourseStartDate": "Em até 30 dias", // Data de início do curso
   "desiredMoveInDate": "Em até 30 dias", // Data pretendida para mudança (opcional)
   "educationAcademicMoment": "Calouro", // Momento acadêmico (Calouro, Veterano, etc.)
+  "visitDate": "2024-98-02 22:00:00", //Data para visita Opcional
   "leadSource": "WebSite", // Origem do lead
   "leadStatus": "1 - Novo", // Status do lead (1 - Novo)
   "gclid": "EAIaIQobChMIv6iqvbHqhgMVCVpIAB1o_AO0EAAYASAAEgL5SPD_BwE", // Google Click ID
